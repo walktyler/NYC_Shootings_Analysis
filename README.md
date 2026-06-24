@@ -10,15 +10,26 @@ Insights and recommendations are structured around the following analytical them
 3) ###
 
 # Data Structure
+Data Source [here](https://data.cityofnewyork.us/Public-Safety/Shootings-2006-Present-/5ucz-vwe8/about_data)
+
+The Data Structure for RAW_NYC_Shootings is as shown, totaling 24.1k rows.
+
 <img width="249" height="565" alt="image" src="https://github.com/user-attachments/assets/33252567-e0b8-49b8-820e-5f70172f870b" />
 
 # Data Cleaning
 Prior to analysis, comprehensive data quality checks and cleaning were performed:
+- Imported data using MSSQL import wizard, viewing and adjusting the data's structure and type before importing.
 - Checked for duplicate data by validating unique incident keys.
+- Checked the standardization of specific columns to verify if it follows a consistent format.
+- Checked for null/blank values in the event there was missing data.
 
 # Executive Summary
-
 ### Overview of Findings
+Shootings Incidents peaked at 1562 during 2020-2021, that was a 97.2% increase from the previous year.
+Shootings have been on a downwards trend during the recent years, with 2025 shooting incidents decreasing by 23.9%.
+Summer months have the most shootings in a year, with the implementation of the Summer Violence Reduction plan in May of 2025, there has been a 16.54% decrease in shooting incidents during summer months compared to the previous year.
+
+Brooklyn is the leading borough for shooting incidents
 
 ### Temporal
 
