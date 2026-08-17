@@ -54,6 +54,8 @@ Prior to analysis, comprehensive data quality checks and cleaning were performed
 # Executive Summary
 ### Overview of Findings
 Analysis of more than 24,000 shooting incidents revealed several notable trends:
+<img width="2121" height="1186" alt="image" src="https://github.com/user-attachments/assets/87e6ed7c-166a-4d71-a81a-bf34fc7f8806" />
+
 
 ### Long-Term Decline with a Temporary Surge
 Shooting incidents generally declined between 2006 and 2019. However, incidents increased sharply during 2020, reaching 1,562 shootings, representing a 97.2% increase from the previous year.
@@ -71,7 +73,6 @@ Brooklyn recorded 9,726 incidents, representing the highest total among all boro
 ### Concentration Among Specific Precincts
 A small number of precincts account for a disproportionate share of incidents, with Precincts 75 and 73 in Brooklyn recording the highest shooting volumes citywide.
 
-<img width="2121" height="1186" alt="image" src="https://github.com/user-attachments/assets/87e6ed7c-166a-4d71-a81a-bf34fc7f8806" />
 
 
 
